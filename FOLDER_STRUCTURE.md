@@ -1,3 +1,4 @@
+```text
 project-name/     
 │
 ├── assets/               # Additional project resources
@@ -27,7 +28,8 @@ project-name/
 │    ├── tableau/         # Tableau workbooks
 │    └── others/          # PowerBI files, matplotlib exports, etc.
 │
-│── .gitignore            # Ignored files/folders
-│── requirements.txt      # Python dependencies
+├── .gitignore            # Ignored files/folders
+├── requirements.txt      # Python dependencies
 └── README.md             # Overview of the project
+
 
