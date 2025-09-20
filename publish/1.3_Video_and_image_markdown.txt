@@ -1,0 +1,55 @@
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true"
+       alt="Wireless Controlled Robot Preview 1"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_2.png?raw=true"
+       alt="Wireless Controlled Robot Preview 2"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_3.png?raw=true"
+       alt="Wireless Controlled Robot Preview 3"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_4.png?raw=true"
+       alt="Wireless Controlled Robot Preview 4"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_5.png?raw=true"
+       alt="Wireless Controlled Robot Preview 5"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_6.png?raw=true"
+       alt="Wireless Controlled Robot Preview 6"
+       width="640"
+       height="360">
+</p>
+
+---
+
+
+### 🎥 Video Demonstration
+
+Not available.
+
+
+---
